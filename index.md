@@ -2,10 +2,10 @@
 ---
 ## Skills
 # Learned
-Language: HTML5, CSS, JavaSript, Java core, C/C++, PHP </br>
+Language: HTML5, CSS, JavaSript, Java core, C/C++, PHP  
 Framework: Bootstrap, NodeJS; ORM,ODM: Hibernate, Morphia, Mongoose
 # Learning
-Language: Python </Br>
+Language: Python  
 Framework: Flask, Django, Spring boot, ReactJS; ORM, ODM: Sequelize, Django ORM
 
 ---

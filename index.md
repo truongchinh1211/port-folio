@@ -2,13 +2,11 @@
 ---
 ## Skills
 # Learned
-Language: HTML5, CSS, JavaSript, Java core, C/C++, PHP
-Framework: Bootstrap, NodeJS.   
-ORM: Hibernate                  ODM: Morphia, Mongoose
+Language: HTML5, CSS, JavaSript, Java core, C/C++, PHP </br>
+Framework: Bootstrap, NodeJS; ORM,ODM: Hibernate, Morphia, Mongoose
 # Learning
-Language: Python
-Framework: Flask, Django, Spring boot, ReactJS
-ORM: Sequelize, Django ORM
+Language: Python </Br>
+Framework: Flask, Django, Spring boot, ReactJS; ORM, ODM: Sequelize, Django ORM
 
 ---
 ### Detect Non-negative Airline Tweets: BERT for Sentiment Analysis

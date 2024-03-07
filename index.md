@@ -9,7 +9,7 @@ Language: Python
 Framework: Flask, Django, Spring boot, ReactJS; ORM, ODM: Sequelize, Django ORM
 
 ---
-#Projects
+# Projects
 ## FTP Application
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/truongchinh1211/ftp-application)
@@ -22,17 +22,16 @@ Through Hibernate, user management becomes both easy and secure, facilitating th
 
 This application excels not only in interacting with databases through Hibernate but also in supporting multiple concurrent connections, enhancing performance and promptly addressing users' multitasking needs. FTP Secure seamlessly blends security, flexibility, and efficiency, making it an excellent choice for safe and effective data transmission.</div>
 
-<center><img src="images/BERT-classification.png"/></center>
+<center><img src="images/ftp-application.png"/></center>
 
 ---
-### Detect Food Trends from Facebook Posts: Co-occurence Matrix, Lift and PPMI
+### fast food store management
 
-[![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](projects/detect-food-trends-facebook.html)
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/chriskhanhtran/facebook-detect-food-trends)
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/truongchinh1211/fast-food-store-management)
 
-<div style="text-align: justify">First I build co-occurence matrices of ingredients from Facebook posts from 2011 to 2015. Then, to identify interesting and rare ingredient combinations that occur more than by chance, I calculate Lift and PPMI metrics. Lastly, I plot time-series data of identified trends to validate my findings. Interesting food trends have emerged from this analysis.</div>
+<div style="text-align: justify">This application, developed in pure Java with Java Swing, serves as a learning project for object-oriented programming and basic database interactions. It features a simple yet effective interface for managing fast-food store data without relying on frameworks. Key aspects include OOP principles, traditional SQL queries for database interaction, and a user-friendly Java Swing interface. This project is designed to help users get acquainted with OOP and the fundamentals of database connectivity in Java.</div>
 <br>
-<center><img src="images/fb-food-trends.png"></center>
+<center><img src="images/fast-food-store-management.jpg"></center>
 <br>
 
 ---

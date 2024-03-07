@@ -1,19 +1,26 @@
 # Portfolio
 ---
-## Skills
-# Learned
+# Skills
+## Learned
 Language: HTML5, CSS, JavaSript, Java core, C/C++, PHP  
 Framework: Bootstrap, NodeJS; ORM,ODM: Hibernate, Morphia, Mongoose
-# Learning
+## Learning
 Language: Python  
 Framework: Flask, Django, Spring boot, ReactJS; ORM, ODM: Sequelize, Django ORM
 
 ---
-### Detect Non-negative Airline Tweets: BERT for Sentiment Analysis
+#Projects
+## FTP Application
 
-[![Run in Google Colab](https://img.shields.io/badge/Colab-Run_in_Google_Colab-blue?logo=Google&logoColor=FDBA18)](https://colab.research.google.com/drive/1f32gj5IYIyFipoINiC8P3DvKat-WWLUK)
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/truongchinh1211/ftp-application)
 
-<div style="text-align: justify">The release of Google's BERT is described as the beginning of a new era in NLP. In this notebook I'll use the HuggingFace's transformers library to fine-tune pretrained BERT model for a classification task. Then I will compare BERT's performance with a baseline model, in which I use a TF-IDF vectorizer and a Naive Bayes classifier. The transformers library helps us quickly and efficiently fine-tune the state-of-the-art BERT model and yield an accuracy rate 10% higher than the baseline model.</div>
+<div style="text-align: justify">FTP Secure is a unique and secure solution for data transmission between client and server. Built on the Java platform and utilizing the Hibernate framework, this application not only provides a user-friendly interface but also ensures high security.
+
+By employing Socket, the application establishes a robust connection between devices while using symmetric key encryption to safeguard data from unauthorized access. The flexible combination of asymmetric keys ensures that only authenticated partners can connect, thus mitigating security risks effectively.
+
+Through Hibernate, user management becomes both easy and secure, facilitating the efficient maintenance of user information. The integrated file management feature is versatile, supporting convenient upload and download operations while effectively organizing directory structures.
+
+This application excels not only in interacting with databases through Hibernate but also in supporting multiple concurrent connections, enhancing performance and promptly addressing users' multitasking needs. FTP Secure seamlessly blends security, flexibility, and efficiency, making it an excellent choice for safe and effective data transmission.</div>
 
 <center><img src="images/BERT-classification.png"/></center>
 
